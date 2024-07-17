@@ -3,12 +3,14 @@
         margin:0
     }
 
-H1{
+h2{
         font-family: "Open Sans", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
         font-style: normal;
         font-variation-settings:"wdth" 100;
+        color: white;
+        text-align: center;
     }
 
 .navbar-brand img
@@ -17,10 +19,42 @@ H1{
         
     }
 
-.card-text
+.card-body
     {
-    background-color: #0DCAF0;
-    width: 17rem;
-
-    
+    background-color: #0DCAF0;    
     }
+
+main 
+{
+    background-color: black;
+} 
+
+.card-img-top{
+    height: 15rem;
+    width: auto;
+
+}
+
+footer
+{
+    background-color:#0DCAF0 ;
+    align-self: auto;
+    text-align: right;
+}
+
+h3{
+    font-family: "Open Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        font-variation-settings:"wdth" 100;
+        color: white;
+}
+.form-group
+{
+    background-color: black;
+}
+form
+{
+    text-decoration: aliceblue;
+}
