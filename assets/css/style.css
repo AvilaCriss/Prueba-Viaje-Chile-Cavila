@@ -49,6 +49,7 @@ h3{
         font-style: normal;
         font-variation-settings:"wdth" 100;
         color: white;
+        text-align: center;
 }
 .form-group
 {
@@ -57,4 +58,9 @@ h3{
 form
 {
     text-decoration: aliceblue;
+}
+
+label
+{
+    color: white;
 }
